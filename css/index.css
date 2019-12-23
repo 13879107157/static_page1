@@ -1,0 +1,145 @@
+body {
+  font-family:'微软雅黑';
+}
+.headnav {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
+.header {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background: #4285f4 url("../images/undraw_static_website_0107.png") no-repeat
+    left bottom;
+  background-size: 45%;
+}
+.head-nav {
+  position: relative;
+}
+.nav-title {
+  color: #fff;
+  font-size: 4em;
+  font-weight: bolder;
+}
+.nav a{
+  color: #d9534f;
+  font-size:1.7rem;
+  /* text-shadow: 6px 3px 2px #000; */
+
+}
+.nav a:hover{
+  color: #4285f4;
+
+  /* text-shadow: 6px 3px 2px #000; */
+
+}
+.Navigation {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
+.head-content {
+  float: right;
+}
+.icon {
+  color: #4285f4;
+  font-size: 20px;
+}
+.icon2 {
+  color: #fff;
+  font-size: 20px;
+}
+.content-top {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.content-list {
+  list-style: none;
+}
+
+.content-list li {
+  display: inline-block;
+  color: #fff;
+}
+
+.tabbox {
+}
+
+.tabbox ul li span {
+  font-size: 50px;
+}
+
+.tabbox ul li.active {
+  color: #fff;
+  font-weight: bold;
+  text-shadow: 6px 1px 30px #000;
+}
+
+.tabbox .content > span {
+  display: none;
+}
+
+.tabbox .content > span.active {
+  display: block;
+}
+.content-center-header {
+  margin-bottom: 20px;
+}
+.content-center-header span {
+  font-size: 4em;
+  color: #fff;
+}
+.content-center-header h1 {
+  font-size: 7em;
+  color: #fff;
+  line-height: 0.8em;
+  float: left;
+  margin-right: 200px;
+}
+.content-center-header p {
+  margin-top: 30px;
+  color: #f7f7f7;
+  font-size: 2rem;
+}
+.caption p {
+  font-size: 0.8rem;
+}
+.weteam {
+  font-size: 3rem;
+  color: #4285f4;
+}
+.content-bottom h1 {
+  font-size: 7rem;
+  font-weight: bold;
+  color: #4285f4;
+}
+.content-bottom .col-md-6 .col-md-7 .p1 {
+  font-size:2.5rem;
+  color: #4285f4;
+  font-weight: bolder;
+  margin-bottom: -5px;
+}
+.content-bottom .col-md-6 .col-md-7 .p2 {
+  font-size:1.4rem;
+  color: #3eb595;
+  font-weight: bolder;
+}
+.p3 {
+  font-size: 1.2rem;
+  color: #999;
+}
+
+.endlanguage1 {
+  font-size: 5rem;
+  color: #fff;
+}
+.endlanguage2 {
+  font-size: 8rem;
+  font-weight: bold;
+  color: #fff;
+}
